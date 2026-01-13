@@ -250,7 +250,7 @@ AISP Swarm:  1M images × parallel agents = constant time
 - No gradient descent, no backpropagation, no sequential dependency
 - Results aggregatable because interpretation is deterministic
 
-**Potential Impact:** 
+**Potential Impact:**
 - Democratize computer vision (no GPU barrier)
 - Constant-time scaling regardless of dataset size
 - Energy efficiency (distributed low-power vs. concentrated high-power)
@@ -447,7 +447,7 @@ AISP 5.1 Platinum is the culmination of Bradley Ross's Master's capstone project
 - 🎓 **Harvard University** — Master's in Digital Media Design in 2026 (4.0 GPA for all courses, Capstone May 2026)
 - 👨‍🏫 **CS50 Teaching Fellow / Course Assistant** — 10+ terms at Harvard
 - 🏢 **Agentics Foundation** — Director & Education Lead (100K+ weekly reach, 40 global chapters)
-- 📚 **Course Designer and Instruction** — Practical AI for Professionals (beginner), Software development with AI (intermediate), Advanced Agentic Engineering (Advanced), AISP Elite Team (starting Q1 2026 - Top Tier Agentic AI) 
+- 📚 **Course Designer and Instruction** — Practical AI for Professionals (beginner), Software development with AI (intermediate), Advanced Agentic Engineering (Advanced), AISP Elite Team (starting Q1 2026 - Top Tier Agentic AI)
 - 💻 **25+ years** enterprise architecture and software engineering experience
 - 🔬 **Research Focus** — Agentic engineering, AGI research, neural-symbolic languages
 
